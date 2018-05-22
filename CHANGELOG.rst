@@ -7,7 +7,7 @@ Changelog for package teraranger_array
 * Change default modes
 * Re-add line removed by mistake
 * Correct typo in example launch files
-* Contributors: pierre-louis.k, pl-kabaradjian
+* Contributors: Pierre-Louis Kabaradjian
 
 1.3.0 (2018-04-13)
 ------------------
@@ -19,7 +19,7 @@ Changelog for package teraranger_array
 * Make separate function for each reconfigure parameter
 * Initilalize all modes at first dynamic reconfigure call
 * Remove min and max clipping for One and Evo
-* Contributors: Pierre-Louis Kabaradjianm, BaptistePotier
+* Contributors: Pierre-Louis Kabaradjian, BaptistePotier
 
 1.2.3 (2017-12-08)
 ------------------
