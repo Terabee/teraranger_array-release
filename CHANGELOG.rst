@@ -2,6 +2,13 @@
 Changelog for package teraranger_array
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.3.1 (2018-05-22)
+------------------
+* Change default modes
+* Re-add line removed by mistake
+* Correct typo in example launch files
+* Contributors: pierre-louis.k, pl-kabaradjian
+
 1.3.0 (2018-04-13)
 ------------------
 * Add example launch files
