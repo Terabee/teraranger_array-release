@@ -1,3 +1,26 @@
+## teraranger_array (melodic) - 2.0.0-1
+
+The packages in the `teraranger_array` repository were released into the `melodic` distro by running `/usr/bin/bloom-release teraranger_array --track melodic --rosdistro melodic --new-track` on `Fri, 03 May 2019 10:05:00 -0000`
+
+The `teraranger_array` package was released.
+
+Version of package(s) in repository `teraranger_array`:
+
+- upstream repository: https://github.com/Terabee/teraranger_array.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## teraranger_array (kinetic) - 2.0.0-1
 
 The packages in the `teraranger_array` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release teraranger_array --track kinetic --rosdistro kinetic` on `Fri, 03 May 2019 09:57:42 -0000`
