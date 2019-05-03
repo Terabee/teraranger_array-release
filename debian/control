@@ -1,0 +1,12 @@
+Source: ros-melodic-teraranger-array
+Section: misc
+Priority: extra
+Maintainer: Pierre-Louis Kabaradjian <pierre-louis.kabaradjian@terabee.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-dynamic-reconfigure, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-rosunit, ros-melodic-sensor-msgs, ros-melodic-serial, ros-melodic-std-msgs
+Homepage: http://wiki.ros.org/teraranger_array
+Standards-Version: 3.9.2
+
+Package: ros-melodic-teraranger-array
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-dynamic-reconfigure, ros-melodic-geometry-msgs, ros-melodic-message-runtime, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-sensor-msgs, ros-melodic-serial, ros-melodic-std-msgs
+Description: This package provides ros nodes for multi-sensor arrays from Terabee
